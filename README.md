@@ -8,7 +8,7 @@
 <div style="display:flex">
   <img align="right" alt="coding_img" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-### I’m [@Umair-Ansari](https://github.com/Ahmadraza301)
+### I’m [Ahmad Raza Ansari](https://github.com/Ahmadraza301)
 
 - 👀 I’m interested in _Software Devlopment and It's Life Cycle_.
 - 💞️ I’m looking to collaborate on App & Website related feature devlopment.
