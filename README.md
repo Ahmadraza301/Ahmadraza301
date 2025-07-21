@@ -3,19 +3,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=42A5F5&background=FFD22800&center=true&vCenter=true&random=false&width=465&lines=Hello%2C+I'm+Umair+Ansari;Welcome+to+My+Profile!;I+am+an+aspiring+full-stack+dev" alt="Typing SVG" /></a>
 <br />
 <!-- ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uumair327&label=Profile%20views&color=0e75b6&style=flat" alt="theajayrawat" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmadraza301&label=Profile%20views&color=0e75b6&style=flat" alt="theajayrawat" /> </p> -->
 
 <div style="display:flex">
   <img align="right" alt="coding_img" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-### I’m [@Umair-Ansari](https://github.com/uumair327)
+### I’m [@Umair-Ansari](https://github.com/Ahmadraza301)
 
 - 👀 I’m interested in _Software Devlopment and It's Life Cycle_.
 - 💞️ I’m looking to collaborate on App & Website related feature devlopment.
 <!-- - 🌱 I’m currently the Winner of `MLH` `Status Code 0`. -->
 - 📫 How to reach me ...
-  - Email: [uumair327@gmail.com](mailto:uumair327@gmail.com)
-  - Linktree: [linktr.ee/uumair327](https://linktr.ee/uumair327)
+  - Email: [Ahmadraza301@gmail.com](mailto:Ahmadraza301@gmail.com)
+  - Linktree: [linktr.ee/Ahmadraza301](https://linktr.ee/Ahmadraza301)
   
     
 <div align="center"> 
@@ -52,15 +52,15 @@
 <h2>Social Info :</h2>
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/uumair327/">
+    <a href="https://www.linkedin.com/in/Ahmadraza301/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:uumair327@gmail.com">
+    <a href="mailto:Ahmadraza301@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
 </div>
 
-<!--![Umair's github stats](https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)-->
+<!--![Umair's github stats](https://github-readme-stats.vercel.app/api?username=Ahmadraza301&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)-->
 ## Github Stats:
 </div>
 <p align="center">
@@ -71,25 +71,25 @@
     justify-content: center;">  
     <picture>
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=uumair327&theme=radical"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadraza301&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="http://github-readme-streak-stats.herokuapp.com?user=uumair327&theme=radical"
+      srcset="http://github-readme-streak-stats.herokuapp.com?user=Ahmadraza301&theme=radical"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=uumair327&theme=radical" width="48%" alt="github-stats"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Ahmadraza301&theme=radical" width="48%" alt="github-stats"/>
   </picture>
     <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=radical"
+      srcset="https://github-readme-stats.vercel.app/api?username=Ahmadraza301&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=radical"
+      srcset="https://github-readme-stats.vercel.app/api?username=Ahmadraza301&show_icons=true&theme=radical"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=radical" width="48%" alt="github-stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahmadraza301&show_icons=true&theme=radical" width="48%" alt="github-stats"/>
   </picture>
   </span>
 </p>
@@ -97,47 +97,47 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uumair327&layout=compact&theme=radical"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadraza301&layout=compact&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uumair327&layout=compact&theme=radical"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadraza301&layout=compact&theme=radical"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uumair327&layout=compact&theme=radical" width="50%" alt="github-graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadraza301&layout=compact&theme=radical" width="50%" alt="github-graph" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=uumair327&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadraza301&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=uumair327&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadraza301&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=uumair327&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadraza301&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
     
   </picture>
 </p>
 
 <div align="center"> 
   Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/uumair327/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ahmadraza301/count.svg" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uumair327&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadraza301&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/uumair327"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Umair" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Ahmadraza301"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Umair" /></a></p><br><br>
 <br><br>
 </div>
 <!--
-**uumair327/uumair327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ahmadraza301/Ahmadraza301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on App, web, ai features development
 - 🤔 I’m looking for help with jobs and internships.
 - 💬 Ask me about aiml, app, web.
-- 📫 How to reach me: uumair327@gmail.com
+- 📫 How to reach me: Ahmadraza301@gmail.com
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: reader
   -->
