@@ -14,7 +14,7 @@
 ### I’m [Ahmad Raza Ansari](https://github.com/Ahmadraza301)
 
 - 👀 I’m interested in _Software Devlopment and It's Life Cycle_.
-- 💞️ I’m looking to collaborate on App & Website related feature devlopment.
+- 💞️ I’m looking to collaborate Java Development & Website related feature devlopment.
 <!-- - 🌱 I’m currently the Winner of `MLH` `Status Code 0`. -->
 - 📫 How to reach me ...
   - Email: [Ahmadraza301@gmail.com](mailto:Ahmadraza301@gmail.com)
@@ -145,15 +145,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Children Of india project
-- 🌱 I’m currently learning AIML
-- 👯 I’m looking to collaborate on App, web, ai features development
+- 🌱 I’m currently learning Java Full stack Development 
+- 👯 I’m looking to collaborate on Java Technologies, web, ai features development
 - 🤔 I’m looking for help with jobs and internships.
-- 💬 Ask me about aiml, app, web.
+- 💬 Ask me about Java Spring, SpringBoot, Microservices, Docker, JPA, Spring Security, AOP and kafka and more concept regrading Java Full stack.
 - 📫 How to reach me: Ahmadraza301@gmail.com
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: reader
   -->
     
-<!--Desiring **full stack developer** 🖥️💖
+<!--Desiring full stack developer 🖥️💖
 
-Using **JavaScript** with a variety of Libraries and collaboration experiences💪-->
+Using JavaScript with a variety of Libraries and collaboration experiences💪-->
